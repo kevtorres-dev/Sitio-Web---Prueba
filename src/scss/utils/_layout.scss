@@ -1,0 +1,10 @@
+.wrapper {
+    width: min(100% - 50px);
+    margin-inline: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
